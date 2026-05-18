@@ -264,12 +264,12 @@ Example Response:
 ## Dashboard
 
 *Add dashboard screenshot here*
-![alt text](image.png)
+![dashboard](images/image.png)
 
 ## Document Workspace
 
 *Add documents workspace screenshot here*
-![alt text](image-1.png)
+![documents](images/image-1.png)
 
 ---
 
