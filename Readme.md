@@ -264,14 +264,12 @@ Example Response:
 ## Dashboard
 
 *Add dashboard screenshot here*
-
-## Chat Interface
-
-*Add chat interface screenshot here*
+![alt text](image.png)
 
 ## Document Workspace
 
 *Add documents workspace screenshot here*
+![alt text](image-1.png)
 
 ---
 
